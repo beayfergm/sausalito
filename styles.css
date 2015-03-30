@@ -1,0 +1,23 @@
+body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
+	letter-spacing: -1px;
+	font: 12px/18px;
+	background-color: #fff; 
+	color: #000; 
+	text-align: center;
+}
+
+.absolute_center {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 50%;
+    height: 30%;
+    margin: auto;
+}
+
+body {
+    background-color: #FFFFFF;
+}
